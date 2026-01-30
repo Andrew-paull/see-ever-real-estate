@@ -69,7 +69,7 @@ const Hero = () => {
             <Button
               size="lg"
               variant="outline"
-              className="text-lg px-8 py-6 border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10"
+              className="text-lg px-8 py-6 border-primary-foreground/30 text-black hover:text-white hover:bg-primary-foreground/10"
             >
               Schedule a Call
             </Button>
