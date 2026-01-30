@@ -41,7 +41,7 @@ const Navbar = () => {
             </a>
             <Button
               variant="secondary"
-              className="gap-2 text-black hover:text-white"
+              className="gap-2"
             >
               <Phone className="w-4 h-4" />
               Schedule Call
@@ -84,7 +84,7 @@ const Navbar = () => {
               </a>
               <Button
                 variant="secondary"
-                className="gap-2 w-full justify-center text-black hover:text-white"
+                className="gap-2 w-full justify-center"
               >
                 <Phone className="w-4 h-4" />
                 Schedule Call
